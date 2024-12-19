@@ -32,7 +32,10 @@ public class Ejemplo11 {
         4    6
         30   52
         */
-        
+        //en este codigo se usan 3 arreglos por que los dos primeros son los 
+        //valores que se van a sumar y que el resultado de esa suma se va a guardar
+        //en el tercer arreglo todas las posiciones estan enlazadas entre si
+        // es decir 0,0 de arreglo 1 con 0,0 de arreglo2, y 0,0 de sumaarreglo
         int valor1;
         int valor2;
         
